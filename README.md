@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-![](https://img.shields.io/static/v1?label=Languages&message=JavaScript|PHPPython|C|HTML|CSS&color=blue&style=flat) ![](https://img.shields.io/badge/Status-In%20Progress-orange)
+![](https://img.shields.io/static/v1?label=Languages&message=JavaScript|PHP|Python|C|HTML|CSS&color=blue&style=flat) ![](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ## About Me
 
@@ -16,7 +16,7 @@ I'm Warano, a full-stack developer specializing in JavaScript. I primarily work 
 
 Feel free to reach out if you have any questions or if you’d like to collaborate!
 
-- Email: [your_email@example.com](mailto:carineteoi@gmal.com)
+- Email: [felix@warano.com](mailto:carineteoi@gmal.com)
 
 ## ⚡ Fun Facts
 
