@@ -17,6 +17,7 @@ I'm Warano, a full-stack developer specializing in JavaScript. I primarily work 
 Feel free to reach out if you have any questions or if you’d like to collaborate!
 
 - Email: [felix@warano.com](mailto:carineteoi@gmal.com)
+- LinkdIn: [Felix Warano](https://www.linkedin.com/in/felixwarano/)
 
 ## ⚡ Fun Facts
 
